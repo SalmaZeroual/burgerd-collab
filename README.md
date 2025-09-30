@@ -1,1 +1,1 @@
-# burgerd-collab
+void test (int a);
